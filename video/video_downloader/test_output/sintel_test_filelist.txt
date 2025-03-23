@@ -1,0 +1,7 @@
+file 'test_output/sintel_test_0.ts'
+file 'test_output/sintel_test_1.ts'
+file 'test_output/sintel_test_2.ts'
+file 'test_output/sintel_test_3.ts'
+file 'test_output/sintel_test_4.ts'
+file 'test_output/sintel_test_5.ts'
+file 'test_output/sintel_test_6.ts'
